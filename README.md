@@ -7,7 +7,7 @@ This machine learning project demonstrates how to use Apache Spark for large-sca
 ## Dataset
 
 - **Source**: [Open Power System Data – Time Series](https://data.open-power-system-data.org/time_series/)
-- **Data**: Hourly electricity consumption and generation data from 2015 to 2020
+- **Data**: Hourly electricity consumption and generation data from 2015 to 2020: time_series_60min_singleindex.csv
 - **Country Used**: Germany (DE_load_actual_entsoe_transparency)
 - **Format**: CSV → Loaded into Databricks (Apache Spark)
 
